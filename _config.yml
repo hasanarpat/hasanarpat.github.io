@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Crow
+email:              
+description:        Yazılım, Bilim, Felsefe, Müzik ve Edebiyat
+author:             Crow
 baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+url:                "https://theakhilleus.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    theakhilleus
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
