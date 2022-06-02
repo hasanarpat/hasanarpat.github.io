@@ -2,18 +2,22 @@ title:              Crow
 email:              
 description:        Yazılım, Bilim, Felsefe, Müzik ve Edebiyat
 author:             Crow
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            ""
 url:                "https://theakhilleus.github.io"
 
 # Social Profiles
 twitter_username:   crowbrl
 github_username:    theakhilleus
-facebook_username:  
-instagram_username:  crow_brl
+facebook_username:
+instagram_username:
 linkedin_username: /hasan-arpat-4ba6a3218/
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+collections:
+   poems:
+    output: true
 
 # Build settings
 markdown:           kramdown
@@ -23,3 +27,4 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+highlighter: rouge

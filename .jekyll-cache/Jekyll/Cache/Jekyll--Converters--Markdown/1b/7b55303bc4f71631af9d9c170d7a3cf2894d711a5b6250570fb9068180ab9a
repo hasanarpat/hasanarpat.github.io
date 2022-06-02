@@ -1,18 +1,8 @@
----
-layout: post
-title: "Çünkü Güzelsin"
-subtitle: ""
-date: 2022-06-01 23:45:13 -0400
-background: '/img/posts/poem/wolf1.jpg'
----
+I"0<p><img src="/img/posts/poem/main.jpg" alt="image alt" /></p>
 
+<h3 id="çünkü-güzelsin">Çünkü Güzelsin</h3>
 
-![image alt](/img/posts/poem/main.jpg)
-
-### Çünkü Güzelsin
-
-```
-
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
 Mayısın başı
 
 Birazcık umut buldum güzel yüzünde 
@@ -120,4 +110,5 @@ Ama ağlıyorum, ağlardım, ağlarım
 Çünkü güzelsin.
 
              ~ Hasan Arpat
-```
+</code></pre></div></div>
+:ET
