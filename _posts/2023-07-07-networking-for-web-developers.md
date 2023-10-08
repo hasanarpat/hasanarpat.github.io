@@ -13,7 +13,7 @@ categories: science,code,dev
 ### Networking for web Developers
 
 
-<p>In this century everything gets more and more complexing. The internet is in the first place of course. So specially as web developers or developers generally we need to know basics of internet and it's protocols at least to work with it.</p>
+<p>In this century everything gets more and more complexing. The internet is in the first place of course. So especially as web developers or developers generally we need to know basics of internet and it's protocols at least to work with it.</p>
 
 <p>In this case software companies are asking questions like:<br/> <strong>"What do you know about Procotols, DNS, How a HTTP request works?..."</strong></p>
 
