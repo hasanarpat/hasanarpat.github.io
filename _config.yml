@@ -10,12 +10,14 @@ twitter_username:   crowbrl
 github_username:    theakhilleus
 facebook_username:
 instagram_username:
-linkedin_username: /hasan-arpat-4ba6a3218/
+linkedin_username: /hasan-arpat/
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 collections:
+   blog:
+    output: true
    poems:
     output: true
 
