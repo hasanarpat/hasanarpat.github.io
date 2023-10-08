@@ -23,7 +23,7 @@ categories: science,code,dev
 
 <iframe  src="https://www.youtube.com/embed/wlVcGc1OdD8" title="Introduction to Networking for Web Developers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<blockquote>I really recommend anyone who wants to learn about networking, you will think much more detailed when coding and design your project as knowing what processes are going to work for example when you fetch data from a outside server.</blockquote>
+<blockquote>I really recommend anyone who wants to learn about networking, you will think much more detailed when coding and design your project as knowing what processes are going to work for example when you fetch data from an outside server.</blockquote>
 
 <h2 class="section-heading">What Are The Topics You Should Take A Look</h2>
 
