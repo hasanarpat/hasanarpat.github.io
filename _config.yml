@@ -1,30 +1,30 @@
-title:              Crow
-email:              
-description:        Yazılım, Bilim, Felsefe, Müzik ve Edebiyat
-author:             Crow
-baseurl:            ""
-url:                "https://hasanarpat.github.io"
+title: Crow
+email:
+description: Yazılım, Bilim, Felsefe, Müzik ve Edebiyat
+author: Crow
+baseurl: ''
+url: 'https://hasanarpat.github.io'
 
 # Social Profiles
-twitter_username:   crowbrl
-github_username:    theakhilleus
+twitter_username: crowbrl
+github_username: hasanarpat
 facebook_username:
 instagram_username:
 linkedin_username: /hasan-arpat/
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics: UA-XXXXXXXXX-X # out your google-analytics code
 
 collections:
-   blog:
+  blog:
     output: true
-   poems:
+  poems:
     output: true
 
 # Build settings
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
+markdown: kramdown
+paginate: 5
+paginate_path: '/posts/page:num/'
 plugins:
   - jekyll-feed
   - jekyll-paginate
